@@ -8,4 +8,4 @@ setup(name='uvgaps',
       author_email='daniel.palumbo@cfa.harvard.edu',
       license='GPLv3',
       packages=['uvgaps'],
-      install_requires=['numpy','scipy','time','matplotlib','ehtim'])
+      install_requires=['numpy','scipy','matplotlib','ehtim'])
